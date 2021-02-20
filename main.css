@@ -37,3 +37,30 @@ header
 {
  color:black;
 }
+.main-header
+{
+ padding-top:20px;
+ overflow:hidden;
+ width:90vw;
+ margin:0 auto;
+}
+
+.image-div img
+{
+ width:300px;
+}
+.image-div, .nav
+{
+ display:inline-block;
+}
+
+.nav
+{
+ float:right;
+}
+
+.nav li
+{
+ display:inline-block;
+ padding: 0 20px;
+}
