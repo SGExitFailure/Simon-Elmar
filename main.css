@@ -33,7 +33,7 @@ header
 {
  color:#fff;
 }
-#sign 
+#sign
 {
  color:black;
 }
@@ -63,4 +63,13 @@ header
 {
  display:inline-block;
  padding: 0 20px;
+}
+
+.search-div {
+  text-align: center;
+}
+
+#submit {
+  display: block;
+  text-align: center;
 }
